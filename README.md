@@ -1,4 +1,4 @@
-1. Efter at have klonet laves en ny pipe-line (så der ikke overskrides i templaten).
+1. Efter at have forket laves en ny pipe-line (så der ikke overskrides i templaten).
 2. Sæt secrets på projektet i github for hhv. password og user.
 3. Lav database som reflekterer de nødvendige entiteter.
 4. Importer entities vha. JPA-buddy --> husk at få alle relationer med, Long!
@@ -7,7 +7,7 @@
 7. Lav facader som reflekterer de entiteter som skal benyttes.
 8. Lav resourcer for de nødvendige endpoints --> husk at tilføje til application-config.
 9. Lav integrationstests og unit-tests.
-10. 
+10. Nu kan du starte på din kodning. God fornøjelse!
 
 
 
